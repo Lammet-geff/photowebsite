@@ -26,7 +26,7 @@ This is a photography website project created using Visual Studio. The website s
 
 ## License
 
-This project is licensed under the @purity.
+This project is licensed under the @lamet.
 
 ---
 
