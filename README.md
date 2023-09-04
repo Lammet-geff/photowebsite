@@ -26,7 +26,7 @@ This is a photography website project created using Visual Studio. The website s
 
 ## License
 
-This project is licensed under the @davyke.
+This project is licensed under the @purity.
 
 ---
 
@@ -34,4 +34,4 @@ Feel free to explore, contribute, and share your feedback. Let your photographs 
 
 For more details, contact [0705427496].
 
-Check out my live link (https://github.com/Davidle30/photosite.git) 
+Check out my live link (https://github.com/Lammet-geff/photowebsite.git) 
